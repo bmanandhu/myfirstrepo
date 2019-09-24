@@ -7,6 +7,7 @@ public class Main {
 	
 		System.out.println("ust global TVPM");
 		System.out.println("hi");
+		System.out.println("hallallallallal");
 	}
 
 }
